@@ -45,6 +45,15 @@ const Contact = () => {
             >
               LinkedIn <MdArrowOutward />
             </a>
+            <a
+              href="https://www.instagram.com/praaatiikk"
+              target="_blank"
+              rel="noreferrer"
+              data-cursor="disable"
+              className="contact-social"
+            >
+              Instagram <MdArrowOutward />
+            </a>
           </div>
           <div className="contact-box">
             <h2>
