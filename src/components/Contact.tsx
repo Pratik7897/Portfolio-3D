@@ -24,6 +24,9 @@ const Contact = () => {
               B.Tech Computer Engineering, Pimpri Chinchwad College of
               Engineering (PCCOE), Pune — 2024–2028
             </p>
+            <p>
+              KILBIL ST. JOSEPH'S HIGH SCHOOL, NASHIK — 2022
+            </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>

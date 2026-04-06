@@ -5,9 +5,8 @@ const Career = () => {
     <div className="career-section section-container">
       <div className="career-container">
         <h2>
-          My <span>&</span>
+          My <span>Education</span>
           <br />
-          education
         </h2>
         <div className="career-info">
           <div className="career-timeline">
@@ -27,6 +26,15 @@ const Career = () => {
               projects across full-stack web development, AI/ML, and computer
               vision while growing as an engineer.
             </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>SCHOOL</h4>
+                <h5>KILBIL ST. JOSEPH'S HIGH SCHOOL, NASHIK</h5>
+              </div>
+              <h3>2022</h3>
+            </div>
           </div>
         </div>
       </div>
